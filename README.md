@@ -18,7 +18,7 @@ Seeing an extreme example of an reddit ad prompted me to look into this topic. I
 
 While PEAT seems to be free, it is not open source, and its usage is limited to Windows and apparently mostly via a GUI. The Harding Test seems to provide an online HTTP API but is not free and also not open source.
 
-This really does not seems sufficient to me. Protection mostly relies on providers with little few options for protecting themselves. Providing a software with a decent and varied API may be good starting point. This could be used as a base in browser extension, an WebAPI, Plugins vor Video Player or in various ways by media providers.
+This really does not seems sufficient to me. Protection mostly relies on providers with few options for users to protect themselves. Providing a software with a decent and varied API may be good starting point. This could be used as a base in browser extension, an WebAPI, Plugins vor Video Player or in various ways by media providers.
 
 Currently, a prototype exists which is not yet satisfying (false positives). I hope I can find enough time to look into this again soon.
 
