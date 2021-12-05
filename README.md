@@ -11,6 +11,9 @@ As asynchronous APIs are not unique to YouTube, I am looking for a good way to f
 ### [Advent Of Code 2021](https://github.com/TimothyGillespie/AdventOfCode2021)
 You can find the tasks here, https://adventofcode.com/2021.
 
+### [Graph Library for JavaScript and TypeScript](https://github.com/TimothyGillespie/JavascriptGraph)
+I have always loved graphs ever since I have learned about graph theory. Other graph libraries already exist, this one is supposed to distinct itself with more advanced algorithms and ready made famous graphs. After all this is a recreational project and work in progress.
+
 ### [Flashy Image Detection](https://github.com/TimothyGillespie/flashy_images_detection)
 Photosensitive epileptics are endangered by flashy images in videos and GIFs all over the Internet. Mozilla recognizes this as an accessibility issue and also provide a much larger idea of the issue (https://developer.mozilla.org/en-US/docs/Web/Accessibility/Seizure_disorders).
 
