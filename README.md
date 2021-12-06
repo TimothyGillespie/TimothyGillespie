@@ -6,7 +6,7 @@ I'm a Fullstack developer.
 
 ### [Angular YouTube Player and Asynchronous API Loading](https://github.com/TimothyGillespie/AngularLibraries)
 I am currently working on a YouTube Player component for Angular, which utilizes the asynchronously loaded iFrame API.
-As asynchronous APIs are not unique to YouTube, I am looking for a good way to fetch these APIs inside the Angular framework. If you have any suggestions besides the method given by YouTube (inserting another script tag) I'd be happy to hear it (see my E-Mail).
+As asynchronous APIs are not unique to YouTube, I am looking for a good way to fetch these APIs inside the Angular framework.
 
 ### [Advent Of Code 2021](https://github.com/TimothyGillespie/AdventOfCode2021)
 You can find the tasks here, https://adventofcode.com/2021.
