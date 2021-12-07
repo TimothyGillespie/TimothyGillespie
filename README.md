@@ -1,6 +1,4 @@
-# Howdy
-
-I'm a Fullstack developer.
+Hi, I'm a Fullstack developer.
 
 ## Current Projects and Activities
 
