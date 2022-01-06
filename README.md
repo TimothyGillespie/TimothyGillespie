@@ -31,5 +31,3 @@ Angular components can be built upon in various way, some of which are not entir
 [GitHub Gists](https://gist.github.com/TimothyGillespie)
 
 [LinkedIn](https://www.linkedin.com/in/timothy-lee-gillespie-ab29b91b4/)
-
-![Bad Pixel](https://bad-pixel.gillespie.eu/timothy/github-profile)
