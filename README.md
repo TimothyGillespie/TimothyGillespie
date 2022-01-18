@@ -6,9 +6,6 @@ Hi, I'm a Fullstack developer.
 I am currently working on a YouTube Player component for Angular, which utilizes the asynchronously loaded iFrame API.
 As asynchronous APIs are not unique to YouTube, I am looking for a good way to fetch these APIs inside the Angular framework.
 
-### [Advent Of Code 2021](https://github.com/TimothyGillespie/AdventOfCode2021)
-You can find the tasks here, https://adventofcode.com/2021.
-
 ### [Graph Library for JavaScript and TypeScript](https://github.com/TimothyGillespie/JavascriptGraph)
 I have always loved graphs ever since I have learned about graph theory. Other graph libraries already exist, this one is supposed to distinct itself by providing more algorithms, parser and writer for existing graph languages and predefined famous graphs. Work in progress.
 
