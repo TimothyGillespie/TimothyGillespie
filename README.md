@@ -2,10 +2,6 @@ Hi, I'm a Fullstack developer.
 
 ## Current Projects and Activities
 
-### [Angular YouTube Player and Asynchronous API Loading](https://github.com/TimothyGillespie/AngularLibraries)
-I am currently working on a YouTube Player component for Angular, which utilizes the asynchronously loaded iFrame API.
-As asynchronous APIs are not unique to YouTube, I am looking for a good way to fetch these APIs inside the Angular framework.
-
 ### [Graph Library for JavaScript and TypeScript](https://github.com/TimothyGillespie/JavascriptGraph)
 I have always loved graphs ever since I have learned about graph theory. Other graph libraries already exist, this one is supposed to distinct itself by providing more algorithms, parser and writer for existing graph languages and predefined famous graphs. Work in progress.
 
