@@ -16,9 +16,6 @@ This really does not seem sufficient to me. Protection mostly relies on provider
 
 Currently, a prototype exists which is not yet satisfying (false positives). I hope I can find enough time to look into this again soon.
 
-### Article about Building Upon Angular Components
-Angular components can be built upon in various way, some of which are not entirely obvious. An article is currently planned to showcase these options
-
 ## Further Links
 
 [GitHub Gists](https://gist.github.com/TimothyGillespie)
