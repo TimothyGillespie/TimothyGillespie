@@ -21,3 +21,5 @@ Currently, a prototype exists which is not yet satisfying (false positives). I h
 [GitHub Gists](https://gist.github.com/TimothyGillespie)
 
 [LinkedIn](https://www.linkedin.com/in/timothy-lee-gillespie-ab29b91b4/)
+
+![visitors](https://visitor-badge.deta.dev/badge?page_id=TimothyGillespie&left_color=blue&right_color=green)
